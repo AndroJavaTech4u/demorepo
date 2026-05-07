@@ -7,10 +7,11 @@ public static void main(String dd[])
  
 throw new A.E();
 
-throw new C.N.E();
-
+throw new resource not found .E();
+ 
 throw new C.E();
 
 
+throw new n .e();
 }
 }
